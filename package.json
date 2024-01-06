@@ -1,0 +1,22 @@
+{
+  "name": "my-program-",
+  "version": "1.0.0",
+  "description": "CLI-APP using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gopartner/my-program-.git"
+  },
+  "keywords": [
+    "cli-app-nodejs"
+  ],
+  "author": "YUDIBILLY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gopartner/my-program-/issues"
+  },
+  "homepage": "https://github.com/Gopartner/my-program-#readme"
+}
